@@ -1,5 +1,5 @@
 def addition(a,b,c):
-    return a+b
+    return a+b+c
 #this is for testing purposes#
 
 def sub(a,b):
